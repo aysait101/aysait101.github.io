@@ -933,9 +933,11 @@ font-size: 15px;
 	width: 500px
 }
 
-.site h2 {
-	margin-bottom: 0
-}
+	.site h2 {
+		margin-bottom: 0 margin-bottom: 0;
+		font-family: 'Architects Daughter';
+		font-size: 30px;
+	}
 
 .presentation {
 	position: absolute;

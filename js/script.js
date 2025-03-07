@@ -1269,7 +1269,7 @@ function realisations () {
      $("#ic").remove();
 
      window.setTimeout(function(){
-    $("#btn").removeClass("#ic").append("<a id='ic' href='https://github.com/ayseth/item-catalog' target='_blank'>Check source code</a>");
+         $("#btn").removeClass("#ic").append("<a id='ic' href='https://github.com/aysait101/item-catalog' target='_blank'>Check source code</a>");
     {delay=false;}
     } ,800);
     //  window.setTimeout(function(){
@@ -1350,7 +1350,7 @@ function detectionRealisationDeOuf(dir, action) {
     $("body").removeClass("item-cat").addClass("brilliant");
      $("#ic").remove();
      window.setTimeout(function(){
-    $("#btn").removeClass("#ic").append("<a id='ic' href='https://github.com/ayseth/brilliant' target='_blank'>Check source code</a><a id='ic2' href='sites/101brilliant/brilliant.html' target='_blank'>View page</a>");
+         $("#btn").removeClass("#ic").append("<a id='ic' href='https://github.com/aysait101/brilliant' target='_blank'>Check source code</a><a id='ic2' href='sites/101brilliant/brilliant.html' target='_blank'>View page</a>");
     // $("#btn").remove("button").append("{delay=false;}");
   {delay=false;}
   } ,800);
@@ -1370,7 +1370,7 @@ function detectionRealisationDeOuf(dir, action) {
      window.setTimeout(function(){
       // $("#ic").remove();
       $("#ic2").remove();
-     $("#btn").removeClass("#ic #ic2").append("<a id='ic' href='https://github.com/ayseth/cms-blog' target='_blank'>Check source code</a>");
+         $("#btn").removeClass("#ic #ic2").append("<a id='ic' href='https://github.com/aysait101/cms-blog' target='_blank'>Check source code</a>");
     {delay=false;}
     } ,800);
 
@@ -1417,7 +1417,7 @@ $("#ic2").remove();
 
     window.setTimeout(function(){
      
-    $("#btn").removeClass("#ic #ic2").append("<a id='ic' href='https://github.com/ayseth/brilliant' target='_blank'>Check source code</a><a id='ic2' href='sites/101brilliant/brilliant.html' target='_blank'>View page</a>");
+        $("#btn").removeClass("#ic #ic2").append("<a id='ic' href='https://aysait101.github.io/aysait/sites/101brilliant/brilliant.html' target='_blank'>Check source code</a><a id='ic2' href='sites/101brilliant/brilliant.html' target='_blank'>View page</a>");
         // $("#btn").remove("button").append("");
      {delay=false;}
       } ,800);
