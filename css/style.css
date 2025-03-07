@@ -15,7 +15,8 @@ body {
 	font-family: "Montserrat", sans-serif;
 	font-size: 2.5em;
 	text-transform: capitalize;
-	font-weight: lighter;
+	font-weight: 500;
+	color: #c0e8f9;
 }
 small {
 	font-size: 80%
@@ -269,11 +270,11 @@ th {
 #profile .primary p {
 	position: absolute;
 	top: 50%;
-	margin-top: 50px;
+	margin-top: 47px;
 	left: 50%;
-	margin-left: -200px;
-	width: 400px;
-	text-align: center
+	margin-left: -247px;
+	width: 500px;
+	text-align: center;
 }
 
 #profile .sub_profile h3 {
@@ -828,26 +829,29 @@ font-size: 15px;
 
 
 #education .university p {
-	 position: absolute;
-    margin-top: 155px;
-    left: 50%;
-    margin-left: 56px;
-    width: 400px;
-    text-align: center;
-    color: #2F4351;
-    text-align: -webkit-left;
-    top: 27%;
+	position: absolute;
+	margin-top: 118px;
+	left: 50%;
+	margin-left: 56px;
+	width: 400px;
+	text-align: center;
+	color: #2F4351;
+	text-align: -webkit-left;
+	top: 25%;
 }
 
 .university img {
-	    position: absolute;
-    border: 0;
-    height: 111px;
-    margin-top: -121px;
-    margin-left: -405px;
-    left: 50%;
-    text-align: -webkit-right;
-    top: 26%;
+	position: absolute;
+	border: 0;
+	height: 111px;
+	margin-top: -79px;
+	margin-left: -360px;
+	left: 50%;
+	text-align: -webkit-right;
+	top: 26%;
+
+
+	
 }
 
 
@@ -865,36 +869,40 @@ font-size: 15px;
 
 
 .udacity img {
-	    position: absolute;
-    border: 0;
-    height: 46px;
-    margin-top: -68px;
-    margin-left: 242px;
-    left: 50%;
-    text-align: -webkit-right;
-    top: 26%;
+	position: absolute;
+	border: 0;
+	margin-top: -124px;
+	margin-left: 242px;
+	left: 50%;
+	text-align: -webkit-right;
+	top: 30%;
+	width: auto;
+	height: 99px;
 }
 .date1 {
-	    position: absolute;
-    margin-top: 197px;
-    left: 50%;
-    margin-left: -388px;
-    width: 400px;
-    text-align: -webkit-right;
-    top: 26%;
-   -moz-margin-start: -298px;
-
+	position: absolute;
+	margin-top: 197px;
+	left: 50%;
+	margin-left: -388px;
+	width: 400px;
+	text-align: -webkit-right;
+	top: 26%;
+	color: #000000;
+	
+	font-weight: 400;
 }
 
 .date2 {
-	       position: absolute;
-    margin-top: 403px;
-    margin-left: -95px;
-    left: 50%;
-    width: 400px;
-    text-align: -webkit-right;
-    top: 26%;
-    -moz-margin-start: -20px;
+	position: absolute;
+	margin-top: 405px;
+	margin-left: 50px;
+	left: 50%;
+	width: 400px;
+	text-align: -webkit-left;
+	top: 26%;
+	-moz-margin-start: -20px;
+	color: #000000;
+	font-weight: 400;
 }
 
 
@@ -1545,7 +1553,7 @@ body.blog #blog p {
 }
 
 body {
-	background: #353d48;
+	background: #131200;
 	font-family: "Montserrat", sans-serif;
 	color: #eee;
 	height: 100% !important;
@@ -1563,12 +1571,11 @@ p {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: #353d48;
+	background: #131200;
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 0.07em;
 	z-index: 9999999999;
-	
 }
 
 #ie p,
@@ -1683,7 +1690,7 @@ nav .enable {
 }
 
 .nav circle {
-	fill: #353d48;
+	fill: #131200;
 	-webkit-transition: all 0.4s;
 	-moz-transition: all 0.4s;
 	-o-transition: all 0.4s;
@@ -1703,7 +1710,7 @@ nav .enable {
 }
 
 .enable:hover path {
-	stroke: #353d48
+	stroke: #131200
 }
 
 nav#profile_nav .nav circle,
@@ -1761,7 +1768,7 @@ nav#skills_nav .enable:hover path {
 }
 
 nav#education_nav .nav circle {
-	stroke: #353d48;
+	stroke: #131200;
 	fill: #a2cecd;
 	-webkit-transition: all 0.4s;
 	-moz-transition: all 0.4s;
@@ -1770,11 +1777,11 @@ nav#education_nav .nav circle {
 }
 
 nav#education_nav .enable:hover circle {
-	fill: #353d48
+	fill: #131200
 }
 
 nav#education_nav .nav path {
-	stroke: #353d48;
+	stroke: #131200;
 	-webkit-transition: all 0.4s;
 	-moz-transition: all 0.4s;
 	-o-transition: all 0.4s;
